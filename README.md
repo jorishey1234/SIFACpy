@@ -3,7 +3,9 @@ Routine pour automatiser le traitement des extractions SIFAC grâce a une base d
 
 ## Installation
 
-Assurez-vous d'avoir une installation de python3 fonctionnelle, avec les librairies suivantes : numpy, pandas, glob, re, xlrd
+Assurez-vous d'avoir une installation de python3 fonctionnelle, avec les librairies suivantes : numpy, pandas, glob, re, xlrd, openpyxl, jinja2. Dans un terminal, taper :
+
+>> pip install  numpy, pandas, glob, re, xlrd, openpyxl, jinja2
 
 Copier coller le dossier SIFACpy dans le repertoire contenant les extractions SIFAC
 
